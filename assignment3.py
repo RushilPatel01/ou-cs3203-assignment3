@@ -40,3 +40,5 @@ if __name__ == '__main__':
     print(f"Sum of list: {sum_Of_List(list_Of_Numbers)}")
 
     print(f"Product of list: {product_Of_List(list_Of_Numbers)}")
+
+    print(f"Reverse list: {reverse_List(list_Of_Numbers)}")
